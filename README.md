@@ -40,11 +40,6 @@ Tecnologias usadas nesse projeto
   ![Comments_Screen](https://github.com/claricebrasil/cubos-blog/blob/main/readme-images/Comment_Screen.png)
  
  
-## Versioning
- 
-1.0.0.0
- 
- 
 ## Autores
  
 * Clarice Brasil: @claricebrasil (https://github.com/claricebrasil)
